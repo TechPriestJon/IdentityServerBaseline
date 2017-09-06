@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/IdentityServerBaseline/bin/Debug/netcoreapp1.1
+/.vs/IdentityServerBaseline/v15/sqlite3
+/IdentityServerBaseline/obj
+/IdentityServerBaseline/Properties
